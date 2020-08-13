@@ -4,7 +4,8 @@ __Address__: localhost:8000
 
 __Example__: localhost:8000/products
 
-DataBase description (short):
+---
+## DataBase description (short):
 
 Table: products
 
