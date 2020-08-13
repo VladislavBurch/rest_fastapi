@@ -1,6 +1,7 @@
 # REST-ctрвис на FastAPI
 
 __Address__: localhost:8000
+
 __Example__: localhost:8000/products
 
 DataBase description (short):
